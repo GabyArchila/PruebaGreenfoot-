@@ -15,7 +15,7 @@ public class MyCat extends Cat
     {
         if (isSleepy())
        {
-           sleep(3);
+           sleep(3);//duramos un poquito
            shoutHooray();
         }
         if (isBored())
